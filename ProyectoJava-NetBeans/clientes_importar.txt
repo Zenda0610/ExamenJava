@@ -1,0 +1,4 @@
+nombre;documento;correo;telefono;tipo_cliente
+Distribuidora Omega Práctica;PRACTICA-OMEGA-01;contacto@omega.example;3001234567;MAYORISTA
+
+Tienda El Parque Práctica;PRACTICA-PARQUE-01;tienda@parque.example;3109876543;MINORISTA
